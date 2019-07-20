@@ -8,4 +8,4 @@ var a1 = Math.PI+1;
 console.log(a1);
 
 //fix bug by customer
-console.log("a1"+1);
+console.log("a1"+2);
