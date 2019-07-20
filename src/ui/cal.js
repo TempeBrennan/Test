@@ -9,3 +9,6 @@ console.log(a1);
 
 //fix bug by customer
 console.log("a1"+1);
+
+//add new feature
+alert("new feature");
