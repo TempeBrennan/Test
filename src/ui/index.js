@@ -4,4 +4,4 @@ console.log("test");
 var a = 'today';
 console.log(a);
 
-console.log(new Date())
+console.log(new Date()+'aaa')
