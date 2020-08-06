@@ -12,3 +12,5 @@ console.log("a1"+2);
 
 //add new feature
 alert("new feature");
+
+console.log('keydown');
