@@ -1,6 +1,7 @@
 alert('alertv1.0');
-// Added By Chen
-console.log('aaa');
+// In Branch 1.0 Stash
+console.log('We can use log');
 
-// Added By Chen
-console.log('bbb');
+console.log('2.0 start!');
+
+console.log('Welcome new member Jenny!@');
